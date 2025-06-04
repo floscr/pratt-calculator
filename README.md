@@ -1,5 +1,7 @@
 # Unit Calculator
 
+**⚠️ This project will continue at https://github.com/tokens-studio/Unit-Calculator**
+
 A tool to run calculations on strings with units.
 It lets you define custom rule sets on how mixed units will be converted.
 
